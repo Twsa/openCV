@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+d:\github\opencv\opencvtest\user\src\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\github\opencv\opencvtest\user\src\stdafx.cpp(5): fatal error C1083: 无法打开预编译头文件: “Debug\opencvtest.pch”: No such file or directory
+  opencvtest1.cpp
+d:\github\opencv\opencvtest\user\src\opencvtest1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\github\opencv\opencvtest\user\src\opencvtest1.cpp(12): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  display_picture.cpp
+d:\github\opencv\opencvtest\user\src\display_picture.cpp(12): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...
